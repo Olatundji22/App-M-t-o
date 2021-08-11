@@ -1,0 +1,6 @@
+[0810/181008.589:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[0810/181008.657:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\alyol\AppData\Local\CryptoTab Browser\User Data\Crashpad\attachments\f555af55-3a8b-4245-b8e0-16f5795fc710: Le chemin d’accès spécifié est introuvable. (0x3)
+[0810/222643.113:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longueur d’enregistrement d’informations spécifiée ne correspond pas à la longueur nécessaire pour la classe d’informations spécifiée. (0xc0000004)
+[0810/222646.805:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longueur d’enregistrement d’informations spécifiée ne correspond pas à la longueur nécessaire pour la classe d’informations spécifiée. (0xc0000004)
+[0810/222648.852:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longueur d’enregistrement d’informations spécifiée ne correspond pas à la longueur nécessaire pour la classe d’informations spécifiée. (0xc0000004)
+[0810/222650.962:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: La longueur d’enregistrement d’informations spécifiée ne correspond pas à la longueur nécessaire pour la classe d’informations spécifiée. (0xc0000004)
