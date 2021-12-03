@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Mohave&family=Zen+Antique&display=swap');
+
 form{
     margin-top: 3rem;
 }
@@ -18,4 +20,14 @@ form input:focus{
 
 form input::-webkit-input-placeholder{
     color: white !important;
+}
+
+.titre{
+    padding-top: 30px;
+    font-style: italic;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+svg{
+    color: rgb(6, 141, 182);
 }
