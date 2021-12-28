@@ -3,4 +3,4 @@ Il s'agit d'une simple application météo realiser avec React.Js utilisant une 
 
 ## Aperçu
 
-![](src/assets/screen%201.PNG?raw=true "Screen 1") ![](src/assets/screen%202.PNG?raw=true "Screen 2")
+![](src/assets/screen%201.PNG?raw=true "Screen 1") ![](src/assets/screen%202.jpg?raw=true "Screen 2")
