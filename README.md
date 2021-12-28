@@ -7,7 +7,6 @@ Il s'agit d'une simple application météo realiser avec React.Js utilisant une 
 
 
 ## Avoir une copie de ce projet
-#*
-Faire git clone https://github.com/PaolaMBIA/Application-mobile-du-tourisme-au-Cameroun.git
+'Faire git clone https://github.com/PaolaMBIA/Application-mobile-du-tourisme-au-Cameroun.git'
 Dans le terminal du repertoire dans lequel vous avez cloné le projet, lancer la commande yarn ou npm install pour installer toutes les dépendances
 Puis la commande yarn start ou npm start pour démarrer le projet
