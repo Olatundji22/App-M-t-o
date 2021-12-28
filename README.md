@@ -7,7 +7,7 @@ Il s'agit d'une simple application météo realiser avec React.Js utilisant une 
 
 
 ## Comment obtenir ce projet ?
-* Exécuter la commande git clone `https://github.com/Olatundji22/App-M-t-o.git`
+* Exécuter la commande `git clone https://github.com/Olatundji22/App-M-t-o.git`
 * Ouvrir un terminal et se placer dans le repertoire ou se trouve le projet cloné
 * Lancer la commande `yarn` ou `npm install` pour installer toutes les dépendances
 * Ensuite exécuter la commande `yarn start` ou `npm start` pour démarrer le projet
